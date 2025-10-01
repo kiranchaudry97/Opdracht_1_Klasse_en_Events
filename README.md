@@ -36,4 +36,7 @@ Het systeem demonstreert het gebruik van klassenhiërarchie, generieke klassen, 
 3. Bekijk de lijst van boeken/tijdschriften.
 4. Plaats een bestelling en ontvang een bevestiging via een event en tuple-output.
 
-## Voorbeeld Event Output
+## Screenshot 
+
+ ![image alt]()
+* beschrijving *
