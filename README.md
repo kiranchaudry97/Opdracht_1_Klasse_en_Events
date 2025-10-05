@@ -38,5 +38,18 @@ Het systeem demonstreert het gebruik van klassenhiërarchie, generieke klassen, 
 
 ## Screenshot 
 
- ![image alt]()
-* beschrijving *
+ ![image alt](https://github.com/kiranchaudry97/Opdracht_1_Klasse_en_Events/blob/c59cc262730ab27aa3bc5d3948020198eedc9b54/Opdracht_screenshot_1/Terminal_Hoofdmenu.png
+)
+ *Hoofdmenu terminal maak een selectie*
+ 
+ ![image alt](https://github.com/kiranchaudry97/Opdracht_1_Klasse_en_Events/blob/c59cc262730ab27aa3bc5d3948020198eedc9b54/Opdracht_screenshot_1/Weergave_aangemaakte_boeken.png)
+  *aangemaakt van  boeken*
+![image alt](https://github.com/kiranchaudry97/Opdracht_1_Klasse_en_Events/blob/c59cc262730ab27aa3bc5d3948020198eedc9b54/Opdracht_screenshot_1/tijdelijke_schrift_aangemaakt.png)
+ *aangemaakt van  tijdschriften*
+
+![image alt](https://github.com/kiranchaudry97/Opdracht_1_Klasse_en_Events/blob/c59cc262730ab27aa3bc5d3948020198eedc9b54/Opdracht_screenshot_1/tijdschrift_bestellen.png)
+ *bestelde tijdschriften*
+![image alt](https://github.com/kiranchaudry97/Opdracht_1_Klasse_en_Events/blob/c59cc262730ab27aa3bc5d3948020198eedc9b54/Opdracht_screenshot_1/Bestelde_boeken.png)
+*bestelde boeken*
+
+
